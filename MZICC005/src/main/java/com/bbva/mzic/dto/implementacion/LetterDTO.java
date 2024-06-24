@@ -75,7 +75,7 @@ public class LetterDTO implements Serializable  {
     public LettersINDTO getLettersIND() {
         return this.lettersIND;
     }
-    public void setLettersIN(final LettersINDTO lettersIND) {
+    public void setLettersIND(final LettersINDTO lettersIND) {
         this.lettersIND = lettersIND;
     }
 
